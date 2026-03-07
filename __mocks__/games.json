@@ -1,0 +1,838 @@
+[
+  {
+    "gameId": "NFL-2025-WK1-001",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-05T20:20:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Kansas City Chiefs",
+      "abbreviation": "KC",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "record": "0-0"
+    },
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "broadcast": "NBC",
+    "odds": {
+      "spread": {
+        "homeSpread": -3.0,
+        "awaySpread": 3.0,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -155,
+        "away": 130
+      },
+      "overUnder": {
+        "total": 47.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "mahomes-patrick",
+        "playerName": "Patrick Mahomes",
+        "team": "KC",
+        "market": "passing_yards",
+        "line": 274.5,
+        "overOdds": -115,
+        "underOdds": -105
+      },
+      {
+        "playerId": "jackson-lamar",
+        "playerName": "Lamar Jackson",
+        "team": "BAL",
+        "market": "passing_yards",
+        "line": 230.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "henry-derrick",
+        "playerName": "Derrick Henry",
+        "team": "BAL",
+        "market": "rushing_yards",
+        "line": 82.5,
+        "overOdds": -120,
+        "underOdds": 100
+      },
+      {
+        "playerId": "kelce-travis",
+        "playerName": "Travis Kelce",
+        "team": "KC",
+        "market": "receiving_yards",
+        "line": 62.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 25.5, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 22.5, "overOdds": -115, "underOdds": -105 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -1.5, "awaySpread": 1.5 },
+      "overUnder": { "total": 23.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-002",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T13:00:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Green Bay Packers",
+      "abbreviation": "GB",
+      "record": "0-0"
+    },
+    "venue": "Lincoln Financial Field",
+    "broadcast": "FOX",
+    "odds": {
+      "spread": {
+        "homeSpread": -4.5,
+        "awaySpread": 4.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -210,
+        "away": 175
+      },
+      "overUnder": {
+        "total": 49.0,
+        "overOdds": -105,
+        "underOdds": -115
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "hurts-jalen",
+        "playerName": "Jalen Hurts",
+        "team": "PHI",
+        "market": "passing_yards",
+        "line": 235.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "love-jordan",
+        "playerName": "Jordan Love",
+        "team": "GB",
+        "market": "passing_yards",
+        "line": 248.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "barkley-saquon",
+        "playerName": "Saquon Barkley",
+        "team": "PHI",
+        "market": "rushing_yards",
+        "line": 88.5,
+        "overOdds": -115,
+        "underOdds": -105
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 27.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 22.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -2.5, "awaySpread": 2.5 },
+      "overUnder": { "total": 24.0 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-003",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T13:00:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Detroit Lions",
+      "abbreviation": "DET",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "record": "0-0"
+    },
+    "venue": "Ford Field",
+    "broadcast": "FOX",
+    "odds": {
+      "spread": {
+        "homeSpread": -6.5,
+        "awaySpread": 6.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -280,
+        "away": 230
+      },
+      "overUnder": {
+        "total": 51.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "goff-jared",
+        "playerName": "Jared Goff",
+        "team": "DET",
+        "market": "passing_yards",
+        "line": 260.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "stafford-matthew",
+        "playerName": "Matthew Stafford",
+        "team": "LAR",
+        "market": "passing_yards",
+        "line": 252.5,
+        "overOdds": -105,
+        "underOdds": -115
+      },
+      {
+        "playerId": "st-brown-amon-ra",
+        "playerName": "Amon-Ra St. Brown",
+        "team": "DET",
+        "market": "receiving_yards",
+        "line": 78.5,
+        "overOdds": -115,
+        "underOdds": -105
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 29.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 22.5, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -3.5, "awaySpread": 3.5 },
+      "overUnder": { "total": 25.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-004",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T16:25:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "San Francisco 49ers",
+      "abbreviation": "SF",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "record": "0-0"
+    },
+    "venue": "Levi's Stadium",
+    "broadcast": "CBS",
+    "odds": {
+      "spread": {
+        "homeSpread": -5.0,
+        "awaySpread": 5.0,
+        "homeOdds": -105,
+        "awayOdds": -115
+      },
+      "moneyline": {
+        "home": -225,
+        "away": 185
+      },
+      "overUnder": {
+        "total": 44.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "purdy-brock",
+        "playerName": "Brock Purdy",
+        "team": "SF",
+        "market": "passing_yards",
+        "line": 242.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "prescott-dak",
+        "playerName": "Dak Prescott",
+        "team": "DAL",
+        "market": "passing_yards",
+        "line": 255.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "mccaffrey-christian",
+        "playerName": "Christian McCaffrey",
+        "team": "SF",
+        "market": "rushing_yards",
+        "line": 65.5,
+        "overOdds": -120,
+        "underOdds": 100
+      },
+      {
+        "playerId": "lamb-ceedee",
+        "playerName": "CeeDee Lamb",
+        "team": "DAL",
+        "market": "receiving_yards",
+        "line": 82.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 24.5, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 20.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -2.5, "awaySpread": 2.5 },
+      "overUnder": { "total": 21.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-005",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T16:25:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "record": "0-0"
+    },
+    "venue": "Highmark Stadium",
+    "broadcast": "CBS",
+    "odds": {
+      "spread": {
+        "homeSpread": -3.5,
+        "awaySpread": 3.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -175,
+        "away": 148
+      },
+      "overUnder": {
+        "total": 50.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "allen-josh",
+        "playerName": "Josh Allen",
+        "team": "BUF",
+        "market": "passing_yards",
+        "line": 268.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "tagovailoa-tua",
+        "playerName": "Tua Tagovailoa",
+        "team": "MIA",
+        "market": "passing_yards",
+        "line": 255.5,
+        "overOdds": -105,
+        "underOdds": -115
+      },
+      {
+        "playerId": "hill-tyreek",
+        "playerName": "Tyreek Hill",
+        "team": "MIA",
+        "market": "receiving_yards",
+        "line": 85.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "allen-josh",
+        "playerName": "Josh Allen",
+        "team": "BUF",
+        "market": "rushing_yards",
+        "line": 38.5,
+        "overOdds": -115,
+        "underOdds": -105
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 27.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 23.5, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -2.0, "awaySpread": 2.0 },
+      "overUnder": { "total": 24.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-006",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T20:20:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Cincinnati Bengals",
+      "abbreviation": "CIN",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "New York Jets",
+      "abbreviation": "NYJ",
+      "record": "0-0"
+    },
+    "venue": "Paycor Stadium",
+    "broadcast": "NBC",
+    "odds": {
+      "spread": {
+        "homeSpread": -3.0,
+        "awaySpread": 3.0,
+        "homeOdds": -115,
+        "awayOdds": -105
+      },
+      "moneyline": {
+        "home": -155,
+        "away": 130
+      },
+      "overUnder": {
+        "total": 45.0,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "burrow-joe",
+        "playerName": "Joe Burrow",
+        "team": "CIN",
+        "market": "passing_yards",
+        "line": 272.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "rodgers-aaron",
+        "playerName": "Aaron Rodgers",
+        "team": "NYJ",
+        "market": "passing_yards",
+        "line": 228.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "chase-jamarr",
+        "playerName": "Ja'Marr Chase",
+        "team": "CIN",
+        "market": "receiving_yards",
+        "line": 88.5,
+        "overOdds": -115,
+        "underOdds": -105
+      },
+      {
+        "playerId": "wilson-garrett",
+        "playerName": "Garrett Wilson",
+        "team": "NYJ",
+        "market": "receiving_yards",
+        "line": 68.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 24.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 21.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -1.5, "awaySpread": 1.5 },
+      "overUnder": { "total": 21.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-007",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-08T20:15:00Z",
+    "status": "scheduled",
+    "homeTeam": {
+      "name": "Houston Texans",
+      "abbreviation": "HOU",
+      "record": "0-0"
+    },
+    "awayTeam": {
+      "name": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "record": "0-0"
+    },
+    "venue": "NRG Stadium",
+    "broadcast": "ESPN",
+    "odds": {
+      "spread": {
+        "homeSpread": -7.5,
+        "awaySpread": 7.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -350,
+        "away": 275
+      },
+      "overUnder": {
+        "total": 43.5,
+        "overOdds": -105,
+        "underOdds": -115
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "stroud-cj",
+        "playerName": "C.J. Stroud",
+        "team": "HOU",
+        "market": "passing_yards",
+        "line": 258.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "lawrence-trevor",
+        "playerName": "Trevor Lawrence",
+        "team": "JAX",
+        "market": "passing_yards",
+        "line": 238.5,
+        "overOdds": -110,
+        "underOdds": -110
+      },
+      {
+        "playerId": "dell-tank",
+        "playerName": "Tank Dell",
+        "team": "HOU",
+        "market": "receiving_yards",
+        "line": 62.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 25.5, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 18.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -4.0, "awaySpread": 4.0 },
+      "overUnder": { "total": 21.0 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK1-008",
+    "week": 1,
+    "season": 2025,
+    "dateTime": "2025-09-07T13:00:00Z",
+    "status": "final",
+    "homeTeam": {
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "record": "1-0"
+    },
+    "awayTeam": {
+      "name": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "record": "0-1"
+    },
+    "venue": "Mercedes-Benz Stadium",
+    "broadcast": "FOX",
+    "score": {
+      "home": 27,
+      "away": 20,
+      "quarters": [7, 10, 3, 7, 0, 6, 7, 7]
+    },
+    "odds": {
+      "spread": {
+        "homeSpread": -2.5,
+        "awaySpread": 2.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -135,
+        "away": 115
+      },
+      "overUnder": {
+        "total": 42.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "result": {
+      "spreadResult": {
+        "winner": "home",
+        "coverMargin": 4.5,
+        "push": false
+      },
+      "moneylineResult": "home",
+      "overUnderResult": {
+        "totalScore": 47,
+        "result": "over"
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "cousins-kirk",
+        "playerName": "Kirk Cousins",
+        "team": "ATL",
+        "market": "passing_yards",
+        "line": 232.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 268,
+        "result": "over"
+      },
+      {
+        "playerId": "pickett-kenny",
+        "playerName": "Kenny Pickett",
+        "team": "PIT",
+        "market": "passing_yards",
+        "line": 218.5,
+        "overOdds": -105,
+        "underOdds": -115,
+        "actual": 195,
+        "result": "under"
+      }
+    ],
+    "playerProps_results_summary": "1 of 2 overs hit",
+    "teamTotals": {
+      "home": { "total": 22.5, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 20.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -1.5, "awaySpread": 1.5 },
+      "overUnder": { "total": 20.5 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK2-009",
+    "week": 2,
+    "season": 2025,
+    "dateTime": "2025-09-14T16:25:00Z",
+    "status": "final",
+    "homeTeam": {
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "record": "1-1"
+    },
+    "awayTeam": {
+      "name": "New Orleans Saints",
+      "abbreviation": "NO",
+      "record": "0-2"
+    },
+    "venue": "AT&T Stadium",
+    "broadcast": "FOX",
+    "score": {
+      "home": 31,
+      "away": 24,
+      "quarters": [10, 7, 7, 7, 3, 7, 7, 7]
+    },
+    "odds": {
+      "spread": {
+        "homeSpread": -4.0,
+        "awaySpread": 4.0,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -190,
+        "away": 160
+      },
+      "overUnder": {
+        "total": 46.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "result": {
+      "spreadResult": {
+        "winner": "home",
+        "coverMargin": 3.0,
+        "push": false
+      },
+      "moneylineResult": "home",
+      "overUnderResult": {
+        "totalScore": 55,
+        "result": "over"
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "prescott-dak",
+        "playerName": "Dak Prescott",
+        "team": "DAL",
+        "market": "passing_yards",
+        "line": 262.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 301,
+        "result": "over"
+      },
+      {
+        "playerId": "lamb-ceedee",
+        "playerName": "CeeDee Lamb",
+        "team": "DAL",
+        "market": "receiving_yards",
+        "line": 78.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 112,
+        "result": "over"
+      },
+      {
+        "playerId": "carr-derek",
+        "playerName": "Derek Carr",
+        "team": "NO",
+        "market": "passing_yards",
+        "line": 245.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 228,
+        "result": "under"
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 25.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 21.5, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -2.0, "awaySpread": 2.0 },
+      "overUnder": { "total": 23.0 }
+    }
+  },
+  {
+    "gameId": "NFL-2025-WK2-010",
+    "week": 2,
+    "season": 2025,
+    "dateTime": "2025-09-14T20:20:00Z",
+    "status": "final",
+    "homeTeam": {
+      "name": "Kansas City Chiefs",
+      "abbreviation": "KC",
+      "record": "2-0"
+    },
+    "awayTeam": {
+      "name": "Cincinnati Bengals",
+      "abbreviation": "CIN",
+      "record": "1-1"
+    },
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "broadcast": "NBC",
+    "score": {
+      "home": 24,
+      "away": 28,
+      "quarters": [3, 7, 7, 7, 7, 7, 7, 7]
+    },
+    "odds": {
+      "spread": {
+        "homeSpread": -4.5,
+        "awaySpread": 4.5,
+        "homeOdds": -110,
+        "awayOdds": -110
+      },
+      "moneyline": {
+        "home": -210,
+        "away": 175
+      },
+      "overUnder": {
+        "total": 48.0,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "result": {
+      "spreadResult": {
+        "winner": "away",
+        "coverMargin": 8.5,
+        "push": false
+      },
+      "moneylineResult": "away",
+      "overUnderResult": {
+        "totalScore": 52,
+        "result": "over"
+      }
+    },
+    "playerProps": [
+      {
+        "playerId": "mahomes-patrick",
+        "playerName": "Patrick Mahomes",
+        "team": "KC",
+        "market": "passing_yards",
+        "line": 278.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 312,
+        "result": "over"
+      },
+      {
+        "playerId": "burrow-joe",
+        "playerName": "Joe Burrow",
+        "team": "CIN",
+        "market": "passing_yards",
+        "line": 258.5,
+        "overOdds": -115,
+        "underOdds": -105,
+        "actual": 286,
+        "result": "over"
+      },
+      {
+        "playerId": "chase-jamarr",
+        "playerName": "Ja'Marr Chase",
+        "team": "CIN",
+        "market": "receiving_yards",
+        "line": 82.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 115,
+        "result": "over"
+      },
+      {
+        "playerId": "kelce-travis",
+        "playerName": "Travis Kelce",
+        "team": "KC",
+        "market": "receiving_yards",
+        "line": 58.5,
+        "overOdds": -110,
+        "underOdds": -110,
+        "actual": 42,
+        "result": "under"
+      }
+    ],
+    "teamTotals": {
+      "home": { "total": 26.0, "overOdds": -110, "underOdds": -110 },
+      "away": { "total": 22.0, "overOdds": -110, "underOdds": -110 }
+    },
+    "firstHalfOdds": {
+      "spread": { "homeSpread": -2.5, "awaySpread": 2.5 },
+      "overUnder": { "total": 23.5 }
+    }
+  }
+]
