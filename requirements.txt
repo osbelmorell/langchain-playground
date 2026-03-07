@@ -1,4 +1,2 @@
 langgraph
-langchain-openai
 langchain[openai]
-langchain[ollama]
