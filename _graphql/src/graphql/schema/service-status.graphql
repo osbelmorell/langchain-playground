@@ -1,0 +1,5 @@
+type ServiceStatus {
+  service: String!
+  uptimeSeconds: Int!
+  timestamp: String!
+}
